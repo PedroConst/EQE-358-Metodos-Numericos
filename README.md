@@ -10,6 +10,8 @@ Neste repositório, você encontrará todos os Jupyter Notebooks utilizados em a
 *	Álgebra Linear II (MAE 245)
 
 ## Bibliografia Recomendada
+* S. C. Chapra & S. P. Canale (2016) Métodos Numéricos para Engenharia. McGraw Hill, 7ª Edição.
+* A. R. Sechi & E. C. Biscaia Jr. (2020) Métodos Numéricos para Engenheiros Químicos: Algoritmos e Aplicações. Rio de janeiro, Ed. do Autor. Disponível gratuitamente em: http://portal.peq.coppe.ufrj.br/images/livros/Livro_MetNum2020.pdf 
 * Q. Kong, T. Siaw, A. Bayen (2021) Python Programming and Numerical Methods: A guide for engineers and scientists. Elsevier: Academic Press. 
 * J. Heys (2017) Chemical and Biomedical Engineering Calculations Using Python. Wiley. 
 * K. Dorfman and P. Daoutidis. (2017) Numerical Methods with Applications in Chemical Engineering. Cambridge University Press. 
